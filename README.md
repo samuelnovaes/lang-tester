@@ -1,2 +1,4 @@
 # lang-tester
-Testador de linguagens de programação
+```bash
+node run.js
+```
