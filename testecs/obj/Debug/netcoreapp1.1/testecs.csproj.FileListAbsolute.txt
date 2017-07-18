@@ -1,0 +1,8 @@
+/home/samuel/Documentos/Testes/testecs/bin/Debug/netcoreapp1.1/testecs.deps.json
+/home/samuel/Documentos/Testes/testecs/bin/Debug/netcoreapp1.1/testecs.runtimeconfig.json
+/home/samuel/Documentos/Testes/testecs/bin/Debug/netcoreapp1.1/testecs.runtimeconfig.dev.json
+/home/samuel/Documentos/Testes/testecs/bin/Debug/netcoreapp1.1/testecs.dll
+/home/samuel/Documentos/Testes/testecs/bin/Debug/netcoreapp1.1/testecs.pdb
+/home/samuel/Documentos/Testes/testecs/obj/Debug/netcoreapp1.1/testecs.AssemblyInfo.cs
+/home/samuel/Documentos/Testes/testecs/obj/Debug/netcoreapp1.1/testecs.dll
+/home/samuel/Documentos/Testes/testecs/obj/Debug/netcoreapp1.1/testecs.pdb
